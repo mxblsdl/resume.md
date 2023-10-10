@@ -1,7 +1,5 @@
 # resume.md
 
-![Resume](resume.png)
-
 ## Prerequisites
 
  - Python ≥ 3.6
