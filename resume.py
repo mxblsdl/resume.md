@@ -217,3 +217,4 @@ if __name__ == "__main__":
 
     if not args.no_pdf:
         write_pdf(html, prefix=prefix, chrome=args.chrome_path)
+        os.rename("resume.pdf", "blasdel_max.pdf")

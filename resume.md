@@ -2,7 +2,7 @@
 # Max Blasdel
 
 <!-- CONTACT DETAILS -->
-- <maxblasdel@mail.com>
+- <maxblasdel@gmail.com>
 - (541) 908-1669
 - [maxblasdel.com](https://www.maxblasdel.com/)
 - Portland, OR
