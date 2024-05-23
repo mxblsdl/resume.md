@@ -1,0 +1,194 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Max Blasdel</title>
+<style>
+body {
+    color: #000000;
+    background: #EEEEEE;
+    font: 1.1em "Times New Roman";
+    line-height: 1.2;
+    margin: 40px 0;
+}
+#resume {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 40px 60px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 2px 2px 4px #AAAAAA;
+    -webkit-box-shadow: 2px 2px 4px #AAAAAA;
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 200%;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    border-bottom: 1px solid #000000;
+    text-transform: uppercase;
+    font-size: 130%;
+    margin: 1em 0 0 0;
+    padding: 0;
+}
+h3 {
+    font-size: 100%;
+    margin: 0.8em 0 0.3em 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+p {
+    margin: 0 0 0.5em 0;
+    padding: 0;
+    }
+ul {
+    padding: 0;
+    margin: 0 1.5em;
+    }
+/* ul immediately after h1 = contact list */
+h1 + ul {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    }
+h1 + ul > li {
+    display: inline;
+    white-space: pre;
+    list-style-type: none;
+}
+h1 + ul > li:after {
+    content: "  \2022  ";
+}
+h1 + ul > li:last-child:after {
+    content: "";
+}
+/* p immediately after contact list = summary */
+h1 + ul + p {
+    margin: 1em 0;
+}
+@media print {
+    body {
+        font-size: 10pt;
+        margin: 0;
+        padding: 0;
+        background: none;
+    }
+    #resume {
+        margin: 0;
+        padding: 0;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    /* Do not underline abbr tags in PDF */
+    abbr {
+        text-decoration: none;
+        font-variant: none;
+    }
+    /* Make links black in PDF */
+    /* Move this outside the print block to apply this in HTML too */
+    a, a:link, a:visited, a:hover {
+        color: #000000;
+        text-decoration: underline;
+    }
+}
+@page {
+    /* Change margins and paper size of PDF */
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
+    size: letter;
+    margin: 0.5in 0.8in;
+}
+@media screen and (max-width: 800px) {
+    body {
+        font-size: 16pt;
+        margin: 0;
+        padding: 0;
+        background: #FFFFFF !important;
+    }
+    #resume {
+        margin: 0;
+        padding: 1em;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+}
+
+</style>
+</head>
+<body>
+<div id="resume">
+<!-- TITLE -->
+<h1>Max Blasdel</h1>
+<!-- CONTACT DETAILS -->
+<ul>
+<li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#97;&#120;&#98;&#108;&#97;&#115;&#100;&#101;&#108;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#109;&#97;&#120;&#98;&#108;&#97;&#115;&#100;&#101;&#108;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></li>
+<li>(541) 908-1669</li>
+<li><a href="https://www.maxblasdel.com/">maxblasdel.com</a></li>
+<li>Portland, OR</li>
+</ul>
+<!-- SUMMARY -->
+<p>Skilled data analytics generalist with experience including academic research, project based consulting, and large corporate entities. I thrive in
+situations where I can learn new systems and apply automation to processes.</p>
+<h2>Experience</h2>
+<!-- You have to wrap the "left" and "right" half of these headings in spans by
+hand -->
+<h3><span>Data Consultant IV - Kaiser Permanente</span> <span>Apr 2022 &ndash; Current</span></h3>
+<ul>
+<li>Implemented process automation with R and Python for multiple projects saving 40+ hours/month &amp; 12K/month</li>
+<li>Spearheaded transition to R Shiny spatial data dashboard reporting bringing new business to team</li>
+<li>Lead internal R package development and design for standardization across developers</li>
+<li>Work to modernize data infrastructure through linux server automation </li>
+</ul>
+<h3><span>BI Engineer - Wavicle Data Solutions</span> <span>Dec 2021 &ndash; Apr 2022</span></h3>
+<ul>
+<li>Brought on to debug legacy R modeling codebase</li>
+<li>Fixed issues with existing Shiny application used for reporting  </li>
+</ul>
+<h3><span>Data Analyst - CLEAResult</span> <span>Jun 2021 &ndash; Dec 2021</span></h3>
+<ul>
+<li>Created economic analysis tools for assessing efficiency gains</li>
+<li>Developed Power BI dashboards for ongoing incentive program</li>
+<li>Development of R package to model heat pump efficiency based on geographic location</li>
+</ul>
+<h3><span>Data Analyst - Cadmus Group</span> <span>Mar 2020 &ndash; Jun 2021</span></h3>
+<ul>
+<li>Development of R Shiny applications for modeled EV adoption</li>
+<li>Converted excel based economic model into R package</li>
+<li>Lead use of python model for solar adoption project</li>
+</ul>
+<h3><span>Research Assistant - Schatz Energy Research Center</span> <span>Aug 2017 &ndash; Mar 2020 <span></h3>
+<ul>
+<li>Built JavaScript web tool to display project results, meeting project scope requirement</li>
+<li>Wrote and maintained R code for parallel processing of large spatial datasets</li>
+<li>Generated spatial analyses of wind generation potential for use in public presentation and discussion</li>
+<li>Provided mentorship and guidance for student and staff members</li>
+</ul>
+<h2>Publications</h2>
+<h3><span>Reduction potentials for particulate emissions from household energy in India</span></h3>
+<ul>
+<li><a href="https://iopscience.iop.org/article/10.1088/1748-9326/acc7ba">Lam, N., Goel, V., Blasdel, M., Xu, L., Ruiz-Mercado, L., Ozaltun, B., Aoudi, L., Whitacre, J.V., Bond, T.C. (2023) Reduction potentials for particulate emissions from household energy in India. Environmental Research Letters. Volume 18. Number 5</a></li>
+</ul>
+<h3><span>Moving beyond incineration</span></h3>
+<ul>
+<li><a href="https://www.sierraclub.org/sites/www.sierraclub.org/files/sce/sierra-club-california/PDFs/SCC_MovingBeyondIncineration.pdf">Fingerman, K., Anderson, D., and Blasdel, M. (2019). Moving Beyond Incineration: Putting Residues from California Forest Management and Restoration to Good Use. Sierra Club of California. San Francisco, CA</a></li>
+</ul>
+<h2>Education</h2>
+<h3><span>Humboldt State University, MS Environmental Sciences</span> <span>2017 &ndash; 2019</span></h3>
+<h3><span>Portland State University, GIS Certificate</span> <span>2015 &ndash; 2016</span></h3>
+<h3><span>Oregon State University, BS Natural Resource Management</span> <span>2011 &ndash; 2014</span></h3>
+<h2>Skills</h2>
+<ul>
+<li>Scripting Languages: R, Python, SQL, JavaScript, </li>
+<li>Databases: SQL Server, Postgres, Oracle, SQLite</li>
+<li>Geospatial: ArcGIS, GDAL, sf, geopandas</li>
+<li>Cloud: Github, Gitlab, DigitalOcean, AWS</li>
+<li>ETL Tools: Alteryx, Databricks</li>
+</ul></div>
+</body>
+</html>
