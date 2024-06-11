@@ -8,36 +8,46 @@
 - Portland, OR
 
 <!-- SUMMARY -->
-Skilled data analytics generalist with experience including academic research, project based consulting, and large corporate entities. I thrive in
-situations where I can learn new systems and apply automation to processes.
+Skilled data analytics generalist with experience ranging from research based
+academia, project based consulting, and large corporate entities. My goal is
+become an expert in my field and an expert in the tools that I use. Coding
+changed my life and I will continue to expand my skills and knowledge of different
+system.
 
 ## Experience
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>Data Consultant IV - Kaiser Permanente</span> <span>Apr 2022 -- Current</span>
+### <span>Data Consultant V - Kaiser Permanente</span> <span>Dec 2023 -- Current</span>
+- Automation of python ETLs with cron jobs on linux server eliminating third party contract and saving ~250k/year
+- Research and extracts data with python/SQL from oracle databases to populate business facing dashboards
+- Help to lead team through internal IT troubleshooting related to enterprise software
+- Builds custom data visualizations with R Shiny leveraging CSS and JavaScript
 
- - Implemented process automation with R and Python for multiple projects saving 40+ hours/month & 12K/month
- - Spearheaded transition to R Shiny spatial data dashboard reporting bringing new business to team
- - Lead internal R package development and design for standardization across developers
- - Work to modernize data infrastructure through linux server automation 
+### <span>Data Consultant IV - Kaiser Permanente</span> <span>Apr 2022 -- Dec 2023</span>
+
+- Automated document creation with combination of R and Python to eliminate ~40 hours/month of labor
+- Led effort to transition web applications to R Shiny through POC development and info sessions
+- Create and maintain ETLs through a combination of R, Python, and SQL
+- Support team development through R and python package development
 
 ### <span>BI Engineer - Wavicle Data Solutions</span> <span>Dec 2021 -- Apr 2022</span>
 
- - Brought on to debug legacy R modeling codebase
- - Fixed issues with existing Shiny application used for reporting  
+- Provides leadership in team development environment
+- Update, optimize, and document large R script code base 
+- Maintain and debug R Shiny application
 
 ### <span>Data Analyst - CLEAResult</span> <span>Jun 2021 -- Dec 2021</span>
 
-- Created economic analysis tools for assessing efficiency gains
-- Developed Power BI dashboards for ongoing incentive program
-- Development of R package to model heat pump efficiency based on geographic location
+-   Economic analysis and insights for energy related projects
+-   Create and maintain dashboards in Power BI
+-   Development of R packages for internal use
+-   ETL processes in Alteryx and database maintenance
 
 ### <span>Data Analyst - Cadmus Group</span> <span>Mar 2020 -- Jun 2021</span>
 
 - Development of R Shiny applications for modeled EV adoption
 - Converted excel based economic model into R package
 - Lead use of python model for solar adoption project
+- Perform cost effectiveness analysis on utility programs
 
 ### <span>Research Assistant - Schatz Energy Research Center</span> <span>Aug 2017 -- Mar 2020 <span>
 
@@ -45,16 +55,6 @@ hand -->
 - Wrote and maintained R code for parallel processing of large spatial datasets
 - Generated spatial analyses of wind generation potential for use in public presentation and discussion
 - Provided mentorship and guidance for student and staff members
-
-## Publications
-
-### <span>Reduction potentials for particulate emissions from household energy in India</span>
-
-- [Lam, N., Goel, V., Blasdel, M., Xu, L., Ruiz-Mercado, L., Ozaltun, B., Aoudi, L., Whitacre, J.V., Bond, T.C. (2023) Reduction potentials for particulate emissions from household energy in India. Environmental Research Letters. Volume 18. Number 5](https://iopscience.iop.org/article/10.1088/1748-9326/acc7ba)
-
-### <span>Moving beyond incineration</span>
-
-- [Fingerman, K., Anderson, D., and Blasdel, M. (2019). Moving Beyond Incineration: Putting Residues from California Forest Management and Restoration to Good Use. Sierra Club of California. San Francisco, CA](https://www.sierraclub.org/sites/www.sierraclub.org/files/sce/sierra-club-california/PDFs/SCC_MovingBeyondIncineration.pdf)
 
 ## Education
 
@@ -66,8 +66,20 @@ hand -->
 
 ## Skills
 
- - Scripting Languages: R, Python, SQL, JavaScript, 
- - Databases: SQL Server, Postgres, Oracle, SQLite
+ - Scripting Languages: R, Python, SQL, JavaScript, Bash, Go
+ - Databases: SQL Server, Postgres/PostGIS, Oracle, SQLite
  - Geospatial: ArcGIS, GDAL, sf, geopandas
- - Cloud: Github, Gitlab, DigitalOcean, AWS
+ - Version Control: Github, Gitlab
+ - OS: Windows, Linux
+ - Cloud: AWS, DigitalOcean
  - ETL Tools: Alteryx, Databricks
+
+## Publications
+
+### <span>Reduction potentials for particulate emissions from household energy in India</span>
+
+- [Lam, N., Goel, V., Blasdel, M., Xu, L., Ruiz-Mercado, L., Ozaltun, B., Aoudi, L., Whitacre, J.V., Bond, T.C. (2023) Reduction potentials for particulate emissions from household energy in India. Environmental Research Letters. Volume 18. Number 5](https://iopscience.iop.org/article/10.1088/1748-9326/acc7ba)
+
+### <span>Moving beyond incineration</span>
+
+- [Fingerman, K., Anderson, D., and Blasdel, M. (2019). Moving Beyond Incineration: Putting Residues from California Forest Management and Restoration to Good Use. Sierra Club of California. San Francisco, CA](https://www.sierraclub.org/sites/www.sierraclub.org/files/sce/sierra-club-california/PDFs/SCC_MovingBeyondIncineration.pdf)
