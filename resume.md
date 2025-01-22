@@ -1,24 +1,27 @@
 <!-- TITLE -->
+
 # Max Blasdel
 
 <!-- CONTACT DETAILS -->
+
 - <maxblasdel@gmail.com>
 - (541) 908-1669
 - [maxblasdel.com](https://www.maxblasdel.com/)
 - Portland, OR
 
 <!-- SUMMARY -->
-Skilled data analytics generalist with experience ranging from research based
-academia, project based consulting, and large corporate entities. My goal is
-become an expert in my field and an expert in the tools that I use. Coding
+
+Skilled data analytics generalist with experience in ETL pipelines, geographic analyses, web development, and automation. My background is in renewable energy, environmental sciences, and most recently healthcare. My goal is become an expert in my field and an expert in the tools that I use. Coding
 changed my life and I will continue to expand my skills and knowledge of different
 system.
 
 ## Experience
 
 ### <span>Data Consultant V - Kaiser Permanente</span> <span>Dec 2023 -- Current</span>
-- Automation of python ETLs with cron jobs on linux server eliminating third party contract and saving ~250k/year
-- Research and extracts data with python/SQL from oracle databases to populate business facing dashboards
+
+- Oversaw development of large data pipeline involving data validation, and normalization or 20+ inputs
+- Automation of python ETLs through linux environment deployment resulting in a savings of ~250k/year
+- Utilize SQL and python to automate ETLs that populate business facing dashboards
 - Help to lead team through internal IT troubleshooting related to enterprise software
 - Builds custom data visualizations with R Shiny leveraging CSS and JavaScript
 
@@ -32,15 +35,16 @@ system.
 ### <span>BI Engineer - Wavicle Data Solutions</span> <span>Dec 2021 -- Apr 2022</span>
 
 - Provides leadership in team development environment
-- Update, optimize, and document large R script code base 
+- Gained knowledge and certificates in AWS infrastructure
+- Update, optimize, and document large R script code base
 - Maintain and debug R Shiny application
 
 ### <span>Data Analyst - CLEAResult</span> <span>Jun 2021 -- Dec 2021</span>
 
--   Economic analysis and insights for energy related projects
--   Create and maintain dashboards in Power BI
--   Development of R packages for internal use
--   ETL processes in Alteryx and database maintenance
+- Economic analysis and insights for energy related projects
+- Create and maintain dashboards in Power BI
+- Development of R packages for internal use
+- ETL processes in Alteryx and database maintenance
 
 ### <span>Data Analyst - Cadmus Group</span> <span>Mar 2020 -- Jun 2021</span>
 
@@ -66,13 +70,13 @@ system.
 
 ## Skills
 
- - Scripting Languages: R, Python, SQL, JavaScript, Bash, Go
- - Databases: SQL Server, Postgres/PostGIS, Oracle, SQLite
- - Geospatial: ArcGIS, GDAL, sf, geopandas
- - Version Control: Github, Gitlab
- - OS: Windows, Linux
- - Cloud: AWS, DigitalOcean
- - ETL Tools: Alteryx, Databricks
+- Scripting Languages: Python, SQL, R, JavaScript, Bash
+- Databases: SQL Server, Postgres/PostGIS, Oracle, SQLite
+- Geospatial: ArcGIS, GDAL, sf, geopandas
+- Version Control: Github, Gitlab
+- OS: Windows, Linux
+- Cloud: AWS, DigitalOcean
+- ETL Tools: Alteryx, Databricks
 
 ## Publications
 
