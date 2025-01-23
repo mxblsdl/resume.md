@@ -8,57 +8,57 @@
 - (541) 908-1669
 - [maxblasdel.com](https://www.maxblasdel.com/)
 - Portland, OR
+- [Github](https://github.com/mxblsdl)
+- [LinkedIn](https://www.linkedin.com/in/max-blasdel/)
 
 <!-- SUMMARY -->
 
-Skilled data analytics generalist with experience in ETL pipelines, geographic analyses, web development, and automation. My background is in renewable energy, environmental sciences, and most recently healthcare. My goal is become an expert in my field and an expert in the tools that I use. Coding
-changed my life and I will continue to expand my skills and knowledge of different
-system.
+Skilled data analytics generalist with experience in ETL pipelines, geographic analyses, web development, and automation. My background is in renewable energy, environmental sciences, and most recently healthcare. My goal is to become an expert in my field and an expert in the tools that I use. Coding changed my life, and I will continue to expand my skills and knowledge of different systems.
 
 ## Experience
 
 ### <span>Data Consultant V - Kaiser Permanente</span> <span>Dec 2023 -- Current</span>
 
-- Oversaw development of large data pipeline involving data validation, and normalization or 20+ inputs
-- Automation of python ETLs through linux environment deployment resulting in a savings of ~250k/year
-- Utilize SQL and python to automate ETLs that populate business facing dashboards
-- Help to lead team through internal IT troubleshooting related to enterprise software
-- Builds custom data visualizations with R Shiny leveraging CSS and JavaScript
+- Oversaw development of large data pipeline involving data validation, and normalization of 20+ inputs
+- Automation of Python ETLs through linux environment deployment resulting in a savings of ~250k/year
+- Utilize SQL and Python to automate ETLs that populate business facing dashboards
+- Helped lead team through internal IT troubleshooting related to enterprise software
+- Built custom data visualizations with R Shiny leveraging CSS and JavaScript
 
 ### <span>Data Consultant IV - Kaiser Permanente</span> <span>Apr 2022 -- Dec 2023</span>
 
-- Automated document creation with combination of R and Python to eliminate ~40 hours/month of labor
+- Automated document creation with a combination of R and Python to eliminate ~40 hours/month of labor
 - Led effort to transition web applications to R Shiny through POC development and info sessions
 - Create and maintain ETLs through a combination of R, Python, and SQL
-- Support team development through R and python package development
+- Support team development through R and Python package development
 
 ### <span>BI Engineer - Wavicle Data Solutions</span> <span>Dec 2021 -- Apr 2022</span>
 
-- Provides leadership in team development environment
+- Provided leadership in team development environment
 - Gained knowledge and certificates in AWS infrastructure
-- Update, optimize, and document large R script code base
-- Maintain and debug R Shiny application
+- Updated, optimized, and documented large R script code base for client
+- Maintained and debugged R Shiny application in server environment
 
 ### <span>Data Analyst - CLEAResult</span> <span>Jun 2021 -- Dec 2021</span>
 
-- Economic analysis and insights for energy related projects
-- Create and maintain dashboards in Power BI
-- Development of R packages for internal use
-- ETL processes in Alteryx and database maintenance
+- Conducted economic analysis and provided insights for energy-related projects
+- Created and maintained dashboards in Power BI, including updates to star schemas
+- Developed R packages for internal use to streamline ongoing analyses
+- Managed ETL processes in Alteryx and maintained database updates
 
 ### <span>Data Analyst - Cadmus Group</span> <span>Mar 2020 -- Jun 2021</span>
 
-- Development of R Shiny applications for modeled EV adoption
-- Converted excel based economic model into R package
-- Lead use of python model for solar adoption project
-- Perform cost effectiveness analysis on utility programs
+- Developed R Shiny applications for modeled EV adoption and energy use
+- Converted Excel-based economic model into an R package with efficiency and speed gains
+- Led use of Python model for solar adoption project in DataBricks environment
+- Performed cost-effectiveness analysis on utility programs
 
 ### <span>Research Assistant - Schatz Energy Research Center</span> <span>Aug 2017 -- Mar 2020 <span>
 
-- Built JavaScript web tool to display project results, meeting project scope requirement
+- Built JavaScript web tool to display project results, meeting project scope requirements
 - Wrote and maintained R code for parallel processing of large spatial datasets
-- Generated spatial analyses of wind generation potential for use in public presentation and discussion
-- Provided mentorship and guidance for student and staff members
+- Generated spatial analyses of wind generation potential for use in public presentations and discussions
+- Provided mentorship and guidance for students and staff members
 
 ## Education
 
