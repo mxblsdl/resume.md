@@ -70,12 +70,12 @@ Skilled data analytics generalist with experience in ETL pipelines, geographic a
 
 ## Skills
 
-- Scripting Languages: Python, SQL, R, JavaScript, Bash
+- Programming Languages: Python, SQL, R, JavaScript, Bash
 - Databases: SQL Server, Postgres/PostGIS, Oracle, SQLite
 - Geospatial: ArcGIS, GDAL, sf, geopandas
-- Version Control: Github, Gitlab
+- Version Control: GitHub, Gitlab
 - OS: Windows, Linux
-- Cloud: AWS, DigitalOcean
+- Cloud Services: AWS, DigitalOcean
 - ETL Tools: Alteryx, Databricks
 
 ## Publications
