@@ -19,7 +19,7 @@ Skilled data analytics generalist with experience in ETL pipelines, geographic a
 
 ### <span>Data Consultant V - Kaiser Permanente</span> <span>Dec 2023 -- Current</span>
 
-- Oversaw development of large data pipeline involving data validation, and normalization of 20+ inputs
+- Setup custom linux deployment environment that enabled scheduling, logging, and notifications for jobs
 - Automation of Python ETLs through linux environment deployment resulting in a savings of ~250k/year
 - Utilize SQL and Python to automate ETLs that populate business facing dashboards
 - Helped lead team through internal IT troubleshooting related to enterprise software
@@ -53,7 +53,7 @@ Skilled data analytics generalist with experience in ETL pipelines, geographic a
 - Led use of Python model for solar adoption project in DataBricks environment
 - Performed cost-effectiveness analysis on utility programs
 
-### <span>Research Assistant - Schatz Energy Research Center</span> <span>Aug 2017 -- Mar 2020 <span>
+### <span>Research Assistant - Schatz Energy Research Center</span> <span>Aug 2017 -- Mar 2020 </span>
 
 - Built JavaScript web tool to display project results, meeting project scope requirements
 - Wrote and maintained R code for parallel processing of large spatial datasets
@@ -70,7 +70,7 @@ Skilled data analytics generalist with experience in ETL pipelines, geographic a
 
 ## Skills
 
-- Programming Languages: Python, SQL, R, JavaScript, Bash
+- Programming Languages: Python, SQL, R, JavaScript, Bash, Go
 - Databases: SQL Server, Postgres/PostGIS, Oracle, SQLite
 - Geospatial: ArcGIS, GDAL, sf, geopandas
 - Version Control: GitHub, Gitlab
