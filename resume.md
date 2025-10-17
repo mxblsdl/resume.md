@@ -17,15 +17,15 @@ Senior Data & Analytics Consultant with 7+ years of experience delivering enterp
 
 ## Experience
 
-### <span>Data Consultant V - Kaiser Permanente</span> <span>Dec 2023 -- Current</span>
+### <span>Analytics Engineer V - Kaiser Permanente</span> <span>Dec 2023 -- Current</span>
 
-- Setup custom linux deployment environment that enabled scheduling, logging, and notifications for jobs
-- Led design and deployment of enterprise ETL pipelines integrating 20+ data sources, ensuring data quality and governance.
-- Automated Python-based ETLs in Linux environments, reducing manual effort and saving $250K annually.
-- Partnered with business stakeholders to deliver actionable insights via custom R Shiny dashboards, improving decision-making capabilities.
-- Mentored junior analysts and drove adoption of best practices in data engineering and visualization.
+- Set up custom linux deployment environment that enables scheduling, logging, notifications, and observability UI for python scripts
+- Automation of X12 data formatting through Python conversion resulting in a savings of ~$250k/year
+- Builds data models with SQL and utilizes Python to create ETLs that populate business facing dashboards and generate internal datasets
+- Helped lead team through internal IT troubleshooting related to enterprise software
+- Created internal packages for team processes to improve onboarding and knowledge sharing
 
-### <span>Data Consultant IV - Kaiser Permanente</span> <span>Apr 2022 -- Dec 2023</span>
+### <span>Analytics Engineer IV - Kaiser Permanente</span> <span>Apr 2022 -- Dec 2023</span>
 
 - Spearheaded migration of legacy web apps to R Shiny, improving performance and maintainability.
 - Automated document generation workflows using R and Python, eliminating 40+ hours of manual work monthly.
@@ -58,16 +58,13 @@ Senior Data & Analytics Consultant with 7+ years of experience delivering enterp
 ## Education
 
 ### <span>Humboldt State University, MS Environmental Sciences</span> <span>2017 -- 2019</span>
-
 ### <span>Portland State University, GIS Certificate</span> <span>2015 -- 2016</span>
-
 ### <span>Oregon State University, BS Natural Resource Management</span> <span>2011 -- 2014</span>
 
 ## Skills
 
 - Programming Languages: Python, SQL, R, JavaScript, Bash, Go
-- Databases: SQL Server, Postgres/PostGIS, Oracle, SQLite
-- Geospatial: ArcGIS, GDAL, sf, geopandas
+- Databases: SQL Server, Postgres/PostGIS, Oracle, SQLite, Prometheus
 - Version Control: GitHub, Gitlab
 - OS: Windows, Linux
 - Cloud Services: AWS, DigitalOcean
