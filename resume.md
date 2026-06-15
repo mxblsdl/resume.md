@@ -5,7 +5,6 @@
 <!-- CONTACT DETAILS -->
 
 - <maxblasdel@gmail.com>
-- (541) 908-1669
 - [maxblasdel.com](https://www.maxblasdel.com/)
 - Portland, OR
 - [Github](https://github.com/mxblsdl)
@@ -13,23 +12,23 @@
 
 <!-- SUMMARY -->
 
-Senior Data & Analytics Consultant with 7+ years of experience delivering enterprise-scale analytics solutions across healthcare, energy, and environmental sectors. Proven track record in leading data strategy, automating ETL pipelines, and developing advanced visualizations to drive business insights and cost savings. Skilled in Python, SQL, R, and cloud-based architectures. Passionate about leveraging data to optimize decision-making and operational efficiency.
+Data Engineer with 7+ years of experience building enterprise-scale data pipelines, operational ETL systems, and analytics platforms across healthcare, energy, and environmental sectors. Proven track record in designing data orchestration, automating ingestion and transformation workflows, and deploying robust observability for data quality and pipeline reliability. Skilled in Python, SQL, Dagster, and cloud-based architectures. Passionate about turning complex datasets into dependable business-ready data assets.
 
 ## Experience
 
 ### <span>Analytics Engineer V - Kaiser Permanente</span> <span>Dec 2023 -- Current</span>
 
-- Set up custom linux deployment environment that enables scheduling, logging, notifications, and observability UI for python scripts
-- Automation of X12 data formatting through Python conversion resulting in a savings of ~$250k/year
-- Builds data models with SQL and utilizes Python to create ETLs that populate business facing dashboards and generate internal datasets
-- Helped lead team through internal IT troubleshooting related to enterprise software
-- Created internal packages for team processes to improve onboarding and knowledge sharing
+- Designed and deployed Dagster orchestration for end-to-end data pipelines, including ingestion, validation, transformation, and downstream delivery to analytics datasets
+- Built reusable Python and SQL pipeline operators that support recurring ETL jobs, reducing manual intervention and improving data reliability across claims and operational feeds
+- Implemented production observability and alerting for pipeline failures using Dagster metadata, logging, and schedule monitoring
+- Automated X12 data formatting through Python conversion, saving approximately $250k/year by removing manual work and standardizing delivery
+- Created internal packages to standardize team data engineering processes, improve onboarding, and accelerate cross-team collaboration
 
 ### <span>Analytics Engineer IV - Kaiser Permanente</span> <span>Apr 2022 -- Dec 2023</span>
 
 - Spearheaded migration of legacy web apps to R Shiny, improving performance and maintainability.
 - Automated document generation workflows using R and Python, eliminating 40+ hours of manual work monthly.
-- Developed reusable R and Python packages to standardize analytics processes across teams.
+- Developed reusable R and Python packages to standardize analytics and data processing workflows across teams.
 
 ### <span>BI Engineer - Wavicle Data Solutions</span> <span>Dec 2021 -- Apr 2022</span>
 
@@ -65,10 +64,10 @@ Senior Data & Analytics Consultant with 7+ years of experience delivering enterp
 
 - Programming Languages: Python, SQL, R, JavaScript, Bash, Go
 - Databases: SQL Server, Postgres/PostGIS, Oracle, SQLite, Prometheus
-- Version Control: GitHub, Gitlab
+- Version Control: GitHub, GitLab
 - OS: Windows, Linux
 - Cloud Services: AWS, DigitalOcean
-- ETL Tools: Alteryx, Databricks
+- ETL & Orchestration: Dagster, Alteryx, Databricks
 
 ## Publications
 
